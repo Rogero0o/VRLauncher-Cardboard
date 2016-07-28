@@ -4,7 +4,7 @@ This project is a practice of Cardboard for Android .
 
 ## Look like
 
-
+![image](https://raw.githubusercontent.com/Rogero0o/VRLauncher-Cardboard/master/vr.png)
 
 ## About me
 
