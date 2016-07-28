@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">VRLauncher</string>
+  <string name="_101_vr_rom">VRLauncher</string>
+  <string name="study_mode">学习模式</string>
+  <string name="entertainment_mode">娱乐模式</string>
+  <string name="please_install_UC_">请安装个人中心.</string>
+  <string name="please_install_settings">请安装设置应用.</string>
+  <string name="please_install_player">请安装播放器.</string>
+  <string name="please_intall_game">请安装游戏应用.</string>
+  <string name="fun_time_text_content">娱乐时间:一小时</string>
+  <string name="uc_text">个人中心</string>
+</resources>
